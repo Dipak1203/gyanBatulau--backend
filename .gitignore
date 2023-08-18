@@ -1,0 +1,12 @@
+
+node_modules
+public
+
+yarn.lock
+/build
+/vscode
+.env
+
+yarn-error.log
+package-lock-json
+src/models
